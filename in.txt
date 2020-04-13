@@ -1,0 +1,6 @@
+An ideal is a subset I of elements in a ring R that forms an additive group and has the property that, whenever x belongs to R and y belongs to I, then xy and yx belong to I. For example, the set of even integers is an ideal in the ring of integers Z. 
+
+That is to say if y is an even number(in I) and but x is not even (not in I) the result of xy or yx is also even (in I).
+
+
+
